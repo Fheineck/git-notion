@@ -1,9 +1,0 @@
-name: opsless/ms-teams-github-actions
-description: Microsoft Teams Github Actions integration
-author: opsless.io team
-runs:
-  using: node16
-  main: dist/main/index.js
-branding:
-  icon: truck
-  color: green
