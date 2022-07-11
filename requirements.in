@@ -1,3 +1,3 @@
 click
 md2notion
-notion @ git+https://github.com/Fheineck/notion-py@master#egg=notion
+notion @ git+https://github.com/Fheineck/notion-py.git@master#egg=notion
